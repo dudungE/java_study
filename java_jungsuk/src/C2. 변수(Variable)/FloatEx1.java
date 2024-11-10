@@ -1,4 +1,4 @@
-public class FolatEx1 {
+public class FloatEx1 {
     public static void main(String[] args) {
         float f = 9.12345679801234567890f;
         float f2 = 1.2345678901234567890f;
@@ -12,3 +12,10 @@ public class FolatEx1 {
 
     }
 }
+
+
+//     123456789012345678901234
+//f    :  9.123457
+//f :   9.12345695495605500000
+//f2 :   1.23456788063049320000
+//d :   9.12345678901234600000

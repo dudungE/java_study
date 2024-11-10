@@ -15,3 +15,11 @@ public class VarEx2 {
 
     }
 }
+
+
+//x:10
+//y:20
+//
+//after
+//x:20
+//y:10

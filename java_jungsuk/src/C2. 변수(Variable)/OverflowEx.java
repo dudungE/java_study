@@ -15,3 +15,13 @@ public class OverflowEx {
         System.out.println("cMax - 1 = " + (int)cMax);
     }
 }
+
+
+//sMin = -32768
+//sMin-1 = 32767
+//sMax = 32767
+//sMax+1 = 32767
+//cMin = 0
+//cMin - 1 = 65535
+//cMax = 65535
+//cMax - 1 = 65535

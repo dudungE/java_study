@@ -7,3 +7,8 @@ public class CastingEx1 {
         System.out.println("d="+d); // 85.4 형변환 이후에도 피연산자에는 영향x
     }
 }
+
+
+
+//score=85
+//d=85.4

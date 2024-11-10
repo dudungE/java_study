@@ -14,3 +14,14 @@ public class StringEx {
         System.out.println("" + 7 + 7);
     }
 }
+
+
+//Java
+//Java8.0
+//7
+// 7
+//7
+//7
+//
+//14
+//77

@@ -7,3 +7,7 @@ public class FloatToBinEx {
         System.out.printf("%X%n", i); // 16진수로출력
      }
 }
+
+
+//9.123457
+//4111F9AE

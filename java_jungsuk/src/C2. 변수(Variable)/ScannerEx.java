@@ -12,3 +12,8 @@ public class ScannerEx {
         System.out.printf("num=%d%n", num);
     }
 }
+
+
+//두자리 정수 입력22
+//입력내용 : 22
+//num=22
