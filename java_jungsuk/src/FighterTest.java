@@ -5,7 +5,7 @@ class FighterTest {
         if (f instanceof Unit)
             System.out.println("Unit");
 
-        if (f instanceof Fightable)
+        if (ff instanceof Fightable)
             System.out.println("Fightable");
 
         if (f instanceof Movable)
