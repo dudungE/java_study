@@ -1,7 +1,7 @@
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-public class ImportTest {
+class ImportTest {
     public static void main(String[] args) {
         Date today = new Date();
 
