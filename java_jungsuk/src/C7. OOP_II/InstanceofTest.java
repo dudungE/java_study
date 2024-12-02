@@ -1,4 +1,4 @@
-public class InstanceofTest {
+class InstanceofTest {
     public static void main(String args[]) {
         FireEngine fe = new FireEngine();
 
